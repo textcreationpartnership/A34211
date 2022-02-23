@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Condemnation, behaviour, last dying words, and execution of Algernon Sidny, Esq. who was beheaded the 7th of this instant December, 1683, on a scaffold on Tower-hill for high-treason, in conspiring the death of His Majesty, and to subvert the government, as by law established, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34211</idno>
+            <idno type="STC">Wing C5718</idno>
+            <idno type="STC">ESTC R584</idno>
+            <idno type="EEBO-CITATION">12409507</idno>
+            <idno type="OCLC">ocm 12409507</idno>
+            <idno type="VID">61477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61477)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 177:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Condemnation, behaviour, last dying words, and execution of Algernon Sidny, Esq. who was beheaded the 7th of this instant December, 1683, on a scaffold on Tower-hill for high-treason, in conspiring the death of His Majesty, and to subvert the government, as by law established, &amp;c.</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Entred according to order"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sidney, Algernon, 1622-1683.</term>
+               <term>Rye House Plot, 1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:61477:1" rendition="simple:additions"/>
+            <head>THE CONDEMNATION, BEHAVIOUR, <hi>Laſt Dying Words</hi> AND EXECUTION OF Algernon Sidny, Eſq; Who was Beheaded the 7th of this Inſtant <hi>December,</hi> 1683. on a Scaffold on <hi>Tower-Hill</hi> for High-Treaſon, in Conſpiring the Death of His Majeſty, and to Sub<g ref="char:EOLhyphen"/>vert the Government, as by Law Eſta<g ref="char:EOLhyphen"/>bliſhed, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>ALgernon Sedny</hi> Eſq; having been Impeached, Apprehended and Committed to the <hi>Tower</hi> of <hi>London</hi> for High Treaſon, in Conſpi<g ref="char:EOLhyphen"/>ring the Death of the King, and to Subvert the Government, <hi>&amp;c.</hi> was on the 7th of <hi>November,</hi> 1683. Arraigned upon an Indict<g ref="char:EOLhyphen"/>ment for the ſame at the <hi>Kings Bench Bar</hi> at <hi>Weſtminſter,</hi> and af<g ref="char:EOLhyphen"/>ter divers Objections, Pleaded <hi>Not Guilty,</hi> whereupon on the 21ſt of the ſaid Month, he was brought to that Bar in Order to his Tryal, when as a <hi>Jury</hi> being Summoned, and he for divers Cauſes, to himſelf beſt known, ha<g ref="char:EOLhyphen"/>ving accepted againſt 34, 12 being Sworn, Mr. <hi>John Anger</hi> Foreman, his Indict<g ref="char:EOLhyphen"/>ment was Read, Importing that he, as a falſe Traytor of our Sovereign Lord the King, had on the 30th of <hi>June</hi> laſt, and at divers other times, together with divers other falſe Traytors in the Pariſh of St. <hi>Giles</hi> in the Fields, Conſpired the Death of our ſaid Sovereign Lord the King, to Raiſe Rebellion, Leavy War, a Miſerable Slaughter amongſt his Subjects to make, and to Subvert the Ancient Government of this Kingdome, to which Intent he had ſent one <hi>Aron Smith</hi> into <hi>Scotland,</hi> and Written, or cauſed to be Written, a Traiterous and Seditious Libel, Conteining divers Treaſons, <hi>&amp;c.</hi> upon which, the Indictment by the Kings Council being Opened, and the Plot to the Purpoſe aforeſaid Proved in General by Mr. <hi>Weſt,</hi> Colonel <hi>Rumſey</hi> and Mr. <hi>Keeling,</hi> the Lord <hi>Howard</hi> Sworn, Depo<g ref="char:EOLhyphen"/>ſed that the Priſoner, <hi>viz. Algernon Sidney</hi> was at divers Conſults where it was debated to Levy War, to raiſe Rebellion, and the Ancient Government of this Kingdome to Subvert, and that at one of them he did Declare for a Common-Wealth, ſaying, all Private Intoreſts ought to be Subjected to the Publick, and the People thereof ſatisfied, that they might know the better what they Fought for, and be the more Reſolute, for if it ſhould be again Setled in a Monarchy, it would come to Fighting over again in Six or Seaven Year, or to this Effect.</p>
+            <p>That he ſent one <hi>Aron Smith</hi> into <hi>Scotland</hi> to ſtir up Divers Ilminded and Diſ<g ref="char:EOLhyphen"/>affected Perſons of that Kingdome to Inſurrection and Rebellion, and that he had declared he gave the ſaid <hi>Smith</hi> 60 Guineas to bear his Charges, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:61477:2"/>
+            <p>And by Sir <hi>P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lip <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> it was Proved, That a Treaſonable <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Specified in the Indictment, tending to the overthrow of Mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y, and Eſtabliſhing the Power in the People, <hi>&amp;c.</hi>) was upon Search, found in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or Room, and the ſaid Libel Proved in Court by divers, to be his Hand, he was, notwithſtanding ſeveral Allegations, upon the Suming up of the Evi<g ref="char:EOLhyphen"/>dence, and the Charge given, found Guilty of the ſaid High-Treaſon, and R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the Tower: From whence, on the <hi>20th</hi> of <hi>November,</hi> he was again brought to the Bar of the Court of <hi>Kings-Bench,</hi> in order to receive Sentance of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as the Law in caſe of High-Treaſon requires, at which time he Ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cted againſt the Legality of the Jurors, for that ſome of them<g ref="char:punc">▪</g> were not Free-Holders in the County, and that, as he had been informed, they were not In<g ref="char:EOLhyphen"/>pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>led as they ought, but being by the Court informed of the Legality of both, he deſired, that he might have a Copy of his Indictment, and time to conſider of it, that he had Points of Law to offer, and the like, but being Over-ruled in what he ſaid, as to the ſtay of Judgment, he received this follow<g ref="char:EOLhyphen"/>ing Sentance, <hi>viz. That he ſhould be Conveyed to the place from whence he came, from thence to the place of Execution, there to be Hanged by the Neck, Cut down a<g ref="char:EOLhyphen"/>live, his Privy Members Cut off, Bowels taken out and burnt in his ſight, his Head to be Severed from his Body, his Body divided into Four Parts, and they to be diſpoſed of at the pleaſure <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the King.</hi> After which he was Remanded to the Tower, where he continued, in order to his preparation for Death, and after ſome time, Petitioned for divers things, but his Petition was not Anſwered according to his Expectation. Yet during the Intervene, His Majeſty was pleaſed, in conſi<g ref="char:EOLhyphen"/>deration of his Noble Deſcent, to change the Sentance aforeſaid, into a Behead<g ref="char:EOLhyphen"/>ing only; whereupon, after a long continued Contrition for his many Inormi<g ref="char:EOLhyphen"/>ties, the Warrant was Signed for his Execution, and directed to the Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi> who according to the Date ſpecified for the Execution, went, attended by their Officers, and demanded the Priſoner; at which time, they received Anſwer, he ſhould be preſently delivered, when about Nine in the Morning the Sheriffs came upon the Scaffold, which was ſurrounded by Four Companies of His Majeſties Foot Guards, and the Hamlet-Warders, and ſoon after, the Lieutenant of the Tower ſent to acquaint the Sheriffs, the Pri<g ref="char:EOLhyphen"/>ſoner was ready, whereupon they went and received him at the <hi>Turn-Pikes,</hi> and Conveyed him to the Scaffold on Tower-Hill, where the late Lord <hi>Stafford</hi> was Beheaded, on which being Mounted, he Bowed Twice to the People; and then having Liberty to declare his Mind, he turned to the Sheriffs, and told them, That he intended not to make any Speech, and thereupon delivering a Paper to them, he told them, What he thought fit to leave behind him, was contain<g ref="char:EOLhyphen"/>ed therein, delivering at the ſame time another Paper to a Gentleman, ſup<g ref="char:EOLhyphen"/>poſed to be the ſame with the former, whereupon he turned to the Executio<g ref="char:EOLhyphen"/>ner, and gave him Money, then Traverſing the Scaffold, he Kneeled on the South-ſide, and Prayed to himſelf, when Riſing, he took off his Coat, Hat and Wig, and gave them to his Servants, of whom, and of his Friends preſent, ha<g ref="char:EOLhyphen"/>ving taken leave, and Ordered the Executioner to take his own time, with<g ref="char:EOLhyphen"/>out expecting any Sign, he layed down his Head, and had it ſtruck off at One Blow, all but a ſmall matter of Fleſh, which the Executioner ſundred with his Kniſe, and held it up, as is uſual in ſuch Caſes, the Body at the time of the Stroak ſcarcely moving. Execution done, the Sheriffs told his Servants, That his Body was given them by His Majeſties Bounty, to diſpoſe of as they thought fit. Whereupon they put it into a Mourning-Coffin, brought thither for that purpoſe, and conveyed it thence, in order to its Interment.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>Entred according to Order.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>L. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
